@@ -7,7 +7,7 @@ Stroke Risk among Elderly Users of Typical vs. Atypical Antipsychotics: A Real-W
 - Study type: **Clinical Application**
 - Tags: **-**
 - Study lead: **Dan Fife, Clair Blacketer, Karl Knight, James Weaver**
-- Study lead forums tag: **[[clairblacketer]](https://forums.ohdsi.org/u/clairblacketer/)**
+- Study lead forums tag: **[clairblacketer](https://forums.ohdsi.org/u/clairblacketer/), [jweave17](https://forums.ohdsi.org/u/jweave17/)**
 - Study start date: **December 29, 2018**
 - Study end date: **July 31, 2019**
 - Protocol: **[Protocol](https://github.com/ohdsi-studies/StrokeRiskInElderlyApUsers/tree/master/documents)**
