@@ -1,0 +1,445 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+8173,8176,443585,Abrasion and/or friction burn of multiple sites,outcome
+8173,8176,318222,Acute lymphadenitis,outcome
+8173,8176,4155909,Anesthesia of skin,outcome
+8173,8176,132736,Bacteremia,outcome
+8173,8176,374367,Bilateral hearing loss,outcome
+8173,8176,4216972,Bursitis of hip,outcome
+8173,8176,4344258,Bursitis of shoulder,outcome
+8173,8176,4213540,Cervical somatic dysfunction,outcome
+8173,8176,140842,Changes in skin texture,outcome
+8173,8176,372925,Cholesteatoma,outcome
+8173,8176,4068241,Chronic instability of knee,outcome
+8173,8176,196454,Colostomy and enterostomy malfunction,outcome
+8173,8176,46269889,Complication due to Crohn's disease,outcome
+8173,8176,377888,Conductive hearing loss,outcome
+8173,8176,437366,Contracture of tendon sheath,outcome
+8173,8176,4022071,Convalescence,outcome
+8173,8176,42873170,Dependence on supplemental oxygen,outcome
+8173,8176,40481547,Dependence on ventilator,outcome
+8173,8176,434887,Disorders of bilirubin excretion,outcome
+8173,8176,198846,Enthesopathy of hip region,outcome
+8173,8176,374801,Foreign body in ear,outcome
+8173,8176,438111,Hematologic neoplasm of uncertain behavior,outcome
+8173,8176,79864,Hematuria syndrome,outcome
+8173,8176,197911,Hernia of anterior abdominal wall without obstruction AND without gangrene,outcome
+8173,8176,440021,Herpes simplex without complication,outcome
+8173,8176,440329,Herpes zoster without complication,outcome
+8173,8176,435511,Hypercalcemia,outcome
+8173,8176,4295287,Hypercoagulability state,outcome
+8173,8176,440072,Hypogammaglobulinemia,outcome
+8173,8176,40481385,Imaging of abdomen abnormal,outcome
+8173,8176,40484908,Imaging of brain abnormal,outcome
+8173,8176,374375,Impacted cerumen,outcome
+8173,8176,4344500,Impingement syndrome of shoulder region,outcome
+8173,8176,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+8173,8176,139099,Ingrowing nail,outcome
+8173,8176,4288544,Inguinal hernia,outcome
+8173,8176,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+8173,8176,4168681,Irritability and anger,outcome
+8173,8176,74052,Labyrinthitis,outcome
+8173,8176,133088,Late amputation stump complication,outcome
+8173,8176,434814,Late effect of medical and surgical care complication,outcome
+8173,8176,435516,Lipoprotein deficiency disorder,outcome
+8173,8176,443600,Localized infection of skin AND/OR subcutaneous tissue,outcome
+8173,8176,4166126,"Localized swelling, mass and lump, trunk",outcome
+8173,8176,44783760,Mammographic calcification of breast,outcome
+8173,8176,439082,Menopausal syndrome,outcome
+8173,8176,441536,Mixed acid-base balance disorder,outcome
+8173,8176,137967,"Muscle, ligament and fascia disorders",outcome
+8173,8176,43530648,New daily persistent headache,outcome
+8173,8176,40480893,Nonspecific tuberculin test reaction,outcome
+8173,8176,4194981,"Pain due to any device, implant AND/OR graft",outcome
+8173,8176,4091513,Passing flatus,outcome
+8173,8176,375292,Perforation of tympanic membrane,outcome
+8173,8176,78162,Peripheral vertigo,outcome
+8173,8176,437092,Physiological development failure,outcome
+8173,8176,46286594,Problem related to lifestyle,outcome
+8173,8176,4049367,Psychologic conversion disorder,outcome
+8173,8176,436246,Reduced libido,outcome
+8173,8176,138845,Rheumatism,outcome
+8173,8176,36713918,Somatic dysfunction of lumbar region,outcome
+8173,8176,77079,Spinal stenosis,outcome
+8173,8176,4008710,"Stenosis due to any device, implant AND/OR graft",outcome
+8173,8176,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
+8173,8176,199065,Stricture of ureter,outcome
+8173,8176,374053,Sudden hearing loss,outcome
+8173,8176,376382,Tension-type headache,outcome
+8173,8176,193251,Umbilical hernia without obstruction AND without gangrene,outcome
+8173,8176,4094742,Unstable knee,outcome
+8173,8176,201916,Ureteric stone,outcome
+8173,8176,79873,Urolith,outcome
+8173,8176,133327,Viremia,outcome
+8173,8176,439981,Wound dehiscence,outcome
+8173,8176,435723,Wound seroma,outcome
+8173,8176,440193,Wristdrop,outcome
+8174,8176,443585,Abrasion and/or friction burn of multiple sites,outcome
+8174,8176,318222,Acute lymphadenitis,outcome
+8174,8176,4155909,Anesthesia of skin,outcome
+8174,8176,132736,Bacteremia,outcome
+8174,8176,374367,Bilateral hearing loss,outcome
+8174,8176,4216972,Bursitis of hip,outcome
+8174,8176,4344258,Bursitis of shoulder,outcome
+8174,8176,4213540,Cervical somatic dysfunction,outcome
+8174,8176,140842,Changes in skin texture,outcome
+8174,8176,372925,Cholesteatoma,outcome
+8174,8176,4068241,Chronic instability of knee,outcome
+8174,8176,196454,Colostomy and enterostomy malfunction,outcome
+8174,8176,46269889,Complication due to Crohn's disease,outcome
+8174,8176,377888,Conductive hearing loss,outcome
+8174,8176,437366,Contracture of tendon sheath,outcome
+8174,8176,4022071,Convalescence,outcome
+8174,8176,42873170,Dependence on supplemental oxygen,outcome
+8174,8176,40481547,Dependence on ventilator,outcome
+8174,8176,434887,Disorders of bilirubin excretion,outcome
+8174,8176,198846,Enthesopathy of hip region,outcome
+8174,8176,374801,Foreign body in ear,outcome
+8174,8176,438111,Hematologic neoplasm of uncertain behavior,outcome
+8174,8176,79864,Hematuria syndrome,outcome
+8174,8176,197911,Hernia of anterior abdominal wall without obstruction AND without gangrene,outcome
+8174,8176,440021,Herpes simplex without complication,outcome
+8174,8176,440329,Herpes zoster without complication,outcome
+8174,8176,435511,Hypercalcemia,outcome
+8174,8176,4295287,Hypercoagulability state,outcome
+8174,8176,440072,Hypogammaglobulinemia,outcome
+8174,8176,40481385,Imaging of abdomen abnormal,outcome
+8174,8176,40484908,Imaging of brain abnormal,outcome
+8174,8176,374375,Impacted cerumen,outcome
+8174,8176,4344500,Impingement syndrome of shoulder region,outcome
+8174,8176,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+8174,8176,139099,Ingrowing nail,outcome
+8174,8176,4288544,Inguinal hernia,outcome
+8174,8176,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+8174,8176,4168681,Irritability and anger,outcome
+8174,8176,74052,Labyrinthitis,outcome
+8174,8176,133088,Late amputation stump complication,outcome
+8174,8176,434814,Late effect of medical and surgical care complication,outcome
+8174,8176,435516,Lipoprotein deficiency disorder,outcome
+8174,8176,443600,Localized infection of skin AND/OR subcutaneous tissue,outcome
+8174,8176,4166126,"Localized swelling, mass and lump, trunk",outcome
+8174,8176,44783760,Mammographic calcification of breast,outcome
+8174,8176,439082,Menopausal syndrome,outcome
+8174,8176,441536,Mixed acid-base balance disorder,outcome
+8174,8176,137967,"Muscle, ligament and fascia disorders",outcome
+8174,8176,43530648,New daily persistent headache,outcome
+8174,8176,40480893,Nonspecific tuberculin test reaction,outcome
+8174,8176,4194981,"Pain due to any device, implant AND/OR graft",outcome
+8174,8176,4091513,Passing flatus,outcome
+8174,8176,375292,Perforation of tympanic membrane,outcome
+8174,8176,78162,Peripheral vertigo,outcome
+8174,8176,437092,Physiological development failure,outcome
+8174,8176,46286594,Problem related to lifestyle,outcome
+8174,8176,4049367,Psychologic conversion disorder,outcome
+8174,8176,436246,Reduced libido,outcome
+8174,8176,138845,Rheumatism,outcome
+8174,8176,36713918,Somatic dysfunction of lumbar region,outcome
+8174,8176,77079,Spinal stenosis,outcome
+8174,8176,4008710,"Stenosis due to any device, implant AND/OR graft",outcome
+8174,8176,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
+8174,8176,199065,Stricture of ureter,outcome
+8174,8176,374053,Sudden hearing loss,outcome
+8174,8176,376382,Tension-type headache,outcome
+8174,8176,193251,Umbilical hernia without obstruction AND without gangrene,outcome
+8174,8176,4094742,Unstable knee,outcome
+8174,8176,201916,Ureteric stone,outcome
+8174,8176,79873,Urolith,outcome
+8174,8176,133327,Viremia,outcome
+8174,8176,439981,Wound dehiscence,outcome
+8174,8176,435723,Wound seroma,outcome
+8174,8176,440193,Wristdrop,outcome
+8163,8175,443585,Abrasion and/or friction burn of multiple sites,outcome
+8163,8175,318222,Acute lymphadenitis,outcome
+8163,8175,4155909,Anesthesia of skin,outcome
+8163,8175,132736,Bacteremia,outcome
+8163,8175,374367,Bilateral hearing loss,outcome
+8163,8175,4216972,Bursitis of hip,outcome
+8163,8175,4344258,Bursitis of shoulder,outcome
+8163,8175,4213540,Cervical somatic dysfunction,outcome
+8163,8175,140842,Changes in skin texture,outcome
+8163,8175,372925,Cholesteatoma,outcome
+8163,8175,4068241,Chronic instability of knee,outcome
+8163,8175,196454,Colostomy and enterostomy malfunction,outcome
+8163,8175,46269889,Complication due to Crohn's disease,outcome
+8163,8175,377888,Conductive hearing loss,outcome
+8163,8175,437366,Contracture of tendon sheath,outcome
+8163,8175,4022071,Convalescence,outcome
+8163,8175,42873170,Dependence on supplemental oxygen,outcome
+8163,8175,40481547,Dependence on ventilator,outcome
+8163,8175,434887,Disorders of bilirubin excretion,outcome
+8163,8175,198846,Enthesopathy of hip region,outcome
+8163,8175,374801,Foreign body in ear,outcome
+8163,8175,438111,Hematologic neoplasm of uncertain behavior,outcome
+8163,8175,79864,Hematuria syndrome,outcome
+8163,8175,197911,Hernia of anterior abdominal wall without obstruction AND without gangrene,outcome
+8163,8175,440021,Herpes simplex without complication,outcome
+8163,8175,440329,Herpes zoster without complication,outcome
+8163,8175,435511,Hypercalcemia,outcome
+8163,8175,4295287,Hypercoagulability state,outcome
+8163,8175,440072,Hypogammaglobulinemia,outcome
+8163,8175,40481385,Imaging of abdomen abnormal,outcome
+8163,8175,40484908,Imaging of brain abnormal,outcome
+8163,8175,374375,Impacted cerumen,outcome
+8163,8175,4344500,Impingement syndrome of shoulder region,outcome
+8163,8175,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+8163,8175,139099,Ingrowing nail,outcome
+8163,8175,4288544,Inguinal hernia,outcome
+8163,8175,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+8163,8175,4168681,Irritability and anger,outcome
+8163,8175,74052,Labyrinthitis,outcome
+8163,8175,133088,Late amputation stump complication,outcome
+8163,8175,434814,Late effect of medical and surgical care complication,outcome
+8163,8175,435516,Lipoprotein deficiency disorder,outcome
+8163,8175,443600,Localized infection of skin AND/OR subcutaneous tissue,outcome
+8163,8175,4166126,"Localized swelling, mass and lump, trunk",outcome
+8163,8175,44783760,Mammographic calcification of breast,outcome
+8163,8175,439082,Menopausal syndrome,outcome
+8163,8175,441536,Mixed acid-base balance disorder,outcome
+8163,8175,137967,"Muscle, ligament and fascia disorders",outcome
+8163,8175,43530648,New daily persistent headache,outcome
+8163,8175,40480893,Nonspecific tuberculin test reaction,outcome
+8163,8175,4194981,"Pain due to any device, implant AND/OR graft",outcome
+8163,8175,4091513,Passing flatus,outcome
+8163,8175,375292,Perforation of tympanic membrane,outcome
+8163,8175,78162,Peripheral vertigo,outcome
+8163,8175,437092,Physiological development failure,outcome
+8163,8175,46286594,Problem related to lifestyle,outcome
+8163,8175,4049367,Psychologic conversion disorder,outcome
+8163,8175,436246,Reduced libido,outcome
+8163,8175,138845,Rheumatism,outcome
+8163,8175,36713918,Somatic dysfunction of lumbar region,outcome
+8163,8175,77079,Spinal stenosis,outcome
+8163,8175,4008710,"Stenosis due to any device, implant AND/OR graft",outcome
+8163,8175,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
+8163,8175,199065,Stricture of ureter,outcome
+8163,8175,374053,Sudden hearing loss,outcome
+8163,8175,376382,Tension-type headache,outcome
+8163,8175,193251,Umbilical hernia without obstruction AND without gangrene,outcome
+8163,8175,4094742,Unstable knee,outcome
+8163,8175,201916,Ureteric stone,outcome
+8163,8175,79873,Urolith,outcome
+8163,8175,133327,Viremia,outcome
+8163,8175,439981,Wound dehiscence,outcome
+8163,8175,435723,Wound seroma,outcome
+8163,8175,440193,Wristdrop,outcome
+8172,8175,443585,Abrasion and/or friction burn of multiple sites,outcome
+8172,8175,318222,Acute lymphadenitis,outcome
+8172,8175,4155909,Anesthesia of skin,outcome
+8172,8175,132736,Bacteremia,outcome
+8172,8175,374367,Bilateral hearing loss,outcome
+8172,8175,4216972,Bursitis of hip,outcome
+8172,8175,4344258,Bursitis of shoulder,outcome
+8172,8175,4213540,Cervical somatic dysfunction,outcome
+8172,8175,140842,Changes in skin texture,outcome
+8172,8175,372925,Cholesteatoma,outcome
+8172,8175,4068241,Chronic instability of knee,outcome
+8172,8175,196454,Colostomy and enterostomy malfunction,outcome
+8172,8175,46269889,Complication due to Crohn's disease,outcome
+8172,8175,377888,Conductive hearing loss,outcome
+8172,8175,437366,Contracture of tendon sheath,outcome
+8172,8175,4022071,Convalescence,outcome
+8172,8175,42873170,Dependence on supplemental oxygen,outcome
+8172,8175,40481547,Dependence on ventilator,outcome
+8172,8175,434887,Disorders of bilirubin excretion,outcome
+8172,8175,198846,Enthesopathy of hip region,outcome
+8172,8175,374801,Foreign body in ear,outcome
+8172,8175,438111,Hematologic neoplasm of uncertain behavior,outcome
+8172,8175,79864,Hematuria syndrome,outcome
+8172,8175,197911,Hernia of anterior abdominal wall without obstruction AND without gangrene,outcome
+8172,8175,440021,Herpes simplex without complication,outcome
+8172,8175,440329,Herpes zoster without complication,outcome
+8172,8175,435511,Hypercalcemia,outcome
+8172,8175,4295287,Hypercoagulability state,outcome
+8172,8175,440072,Hypogammaglobulinemia,outcome
+8172,8175,40481385,Imaging of abdomen abnormal,outcome
+8172,8175,40484908,Imaging of brain abnormal,outcome
+8172,8175,374375,Impacted cerumen,outcome
+8172,8175,4344500,Impingement syndrome of shoulder region,outcome
+8172,8175,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+8172,8175,139099,Ingrowing nail,outcome
+8172,8175,4288544,Inguinal hernia,outcome
+8172,8175,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+8172,8175,4168681,Irritability and anger,outcome
+8172,8175,74052,Labyrinthitis,outcome
+8172,8175,133088,Late amputation stump complication,outcome
+8172,8175,434814,Late effect of medical and surgical care complication,outcome
+8172,8175,435516,Lipoprotein deficiency disorder,outcome
+8172,8175,443600,Localized infection of skin AND/OR subcutaneous tissue,outcome
+8172,8175,4166126,"Localized swelling, mass and lump, trunk",outcome
+8172,8175,44783760,Mammographic calcification of breast,outcome
+8172,8175,439082,Menopausal syndrome,outcome
+8172,8175,441536,Mixed acid-base balance disorder,outcome
+8172,8175,137967,"Muscle, ligament and fascia disorders",outcome
+8172,8175,43530648,New daily persistent headache,outcome
+8172,8175,40480893,Nonspecific tuberculin test reaction,outcome
+8172,8175,4194981,"Pain due to any device, implant AND/OR graft",outcome
+8172,8175,4091513,Passing flatus,outcome
+8172,8175,375292,Perforation of tympanic membrane,outcome
+8172,8175,78162,Peripheral vertigo,outcome
+8172,8175,437092,Physiological development failure,outcome
+8172,8175,46286594,Problem related to lifestyle,outcome
+8172,8175,4049367,Psychologic conversion disorder,outcome
+8172,8175,436246,Reduced libido,outcome
+8172,8175,138845,Rheumatism,outcome
+8172,8175,36713918,Somatic dysfunction of lumbar region,outcome
+8172,8175,77079,Spinal stenosis,outcome
+8172,8175,4008710,"Stenosis due to any device, implant AND/OR graft",outcome
+8172,8175,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
+8172,8175,199065,Stricture of ureter,outcome
+8172,8175,374053,Sudden hearing loss,outcome
+8172,8175,376382,Tension-type headache,outcome
+8172,8175,193251,Umbilical hernia without obstruction AND without gangrene,outcome
+8172,8175,4094742,Unstable knee,outcome
+8172,8175,201916,Ureteric stone,outcome
+8172,8175,79873,Urolith,outcome
+8172,8175,133327,Viremia,outcome
+8172,8175,439981,Wound dehiscence,outcome
+8172,8175,435723,Wound seroma,outcome
+8172,8175,440193,Wristdrop,outcome
+8571,8573,443585,Abrasion and/or friction burn of multiple sites,outcome
+8571,8573,318222,Acute lymphadenitis,outcome
+8571,8573,4155909,Anesthesia of skin,outcome
+8571,8573,132736,Bacteremia,outcome
+8571,8573,374367,Bilateral hearing loss,outcome
+8571,8573,4216972,Bursitis of hip,outcome
+8571,8573,4344258,Bursitis of shoulder,outcome
+8571,8573,4213540,Cervical somatic dysfunction,outcome
+8571,8573,140842,Changes in skin texture,outcome
+8571,8573,372925,Cholesteatoma,outcome
+8571,8573,4068241,Chronic instability of knee,outcome
+8571,8573,196454,Colostomy and enterostomy malfunction,outcome
+8571,8573,46269889,Complication due to Crohn's disease,outcome
+8571,8573,377888,Conductive hearing loss,outcome
+8571,8573,437366,Contracture of tendon sheath,outcome
+8571,8573,4022071,Convalescence,outcome
+8571,8573,42873170,Dependence on supplemental oxygen,outcome
+8571,8573,40481547,Dependence on ventilator,outcome
+8571,8573,434887,Disorders of bilirubin excretion,outcome
+8571,8573,198846,Enthesopathy of hip region,outcome
+8571,8573,374801,Foreign body in ear,outcome
+8571,8573,438111,Hematologic neoplasm of uncertain behavior,outcome
+8571,8573,79864,Hematuria syndrome,outcome
+8571,8573,197911,Hernia of anterior abdominal wall without obstruction AND without gangrene,outcome
+8571,8573,440021,Herpes simplex without complication,outcome
+8571,8573,440329,Herpes zoster without complication,outcome
+8571,8573,435511,Hypercalcemia,outcome
+8571,8573,4295287,Hypercoagulability state,outcome
+8571,8573,440072,Hypogammaglobulinemia,outcome
+8571,8573,40481385,Imaging of abdomen abnormal,outcome
+8571,8573,40484908,Imaging of brain abnormal,outcome
+8571,8573,374375,Impacted cerumen,outcome
+8571,8573,4344500,Impingement syndrome of shoulder region,outcome
+8571,8573,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+8571,8573,139099,Ingrowing nail,outcome
+8571,8573,4288544,Inguinal hernia,outcome
+8571,8573,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+8571,8573,4168681,Irritability and anger,outcome
+8571,8573,74052,Labyrinthitis,outcome
+8571,8573,133088,Late amputation stump complication,outcome
+8571,8573,434814,Late effect of medical and surgical care complication,outcome
+8571,8573,435516,Lipoprotein deficiency disorder,outcome
+8571,8573,443600,Localized infection of skin AND/OR subcutaneous tissue,outcome
+8571,8573,4166126,"Localized swelling, mass and lump, trunk",outcome
+8571,8573,44783760,Mammographic calcification of breast,outcome
+8571,8573,439082,Menopausal syndrome,outcome
+8571,8573,441536,Mixed acid-base balance disorder,outcome
+8571,8573,137967,"Muscle, ligament and fascia disorders",outcome
+8571,8573,43530648,New daily persistent headache,outcome
+8571,8573,40480893,Nonspecific tuberculin test reaction,outcome
+8571,8573,4194981,"Pain due to any device, implant AND/OR graft",outcome
+8571,8573,4091513,Passing flatus,outcome
+8571,8573,375292,Perforation of tympanic membrane,outcome
+8571,8573,78162,Peripheral vertigo,outcome
+8571,8573,437092,Physiological development failure,outcome
+8571,8573,46286594,Problem related to lifestyle,outcome
+8571,8573,4049367,Psychologic conversion disorder,outcome
+8571,8573,436246,Reduced libido,outcome
+8571,8573,138845,Rheumatism,outcome
+8571,8573,36713918,Somatic dysfunction of lumbar region,outcome
+8571,8573,77079,Spinal stenosis,outcome
+8571,8573,4008710,"Stenosis due to any device, implant AND/OR graft",outcome
+8571,8573,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
+8571,8573,199065,Stricture of ureter,outcome
+8571,8573,374053,Sudden hearing loss,outcome
+8571,8573,376382,Tension-type headache,outcome
+8571,8573,193251,Umbilical hernia without obstruction AND without gangrene,outcome
+8571,8573,4094742,Unstable knee,outcome
+8571,8573,201916,Ureteric stone,outcome
+8571,8573,79873,Urolith,outcome
+8571,8573,133327,Viremia,outcome
+8571,8573,439981,Wound dehiscence,outcome
+8571,8573,435723,Wound seroma,outcome
+8571,8573,440193,Wristdrop,outcome
+8572,8573,443585,Abrasion and/or friction burn of multiple sites,outcome
+8572,8573,318222,Acute lymphadenitis,outcome
+8572,8573,4155909,Anesthesia of skin,outcome
+8572,8573,132736,Bacteremia,outcome
+8572,8573,374367,Bilateral hearing loss,outcome
+8572,8573,4216972,Bursitis of hip,outcome
+8572,8573,4344258,Bursitis of shoulder,outcome
+8572,8573,4213540,Cervical somatic dysfunction,outcome
+8572,8573,140842,Changes in skin texture,outcome
+8572,8573,372925,Cholesteatoma,outcome
+8572,8573,4068241,Chronic instability of knee,outcome
+8572,8573,196454,Colostomy and enterostomy malfunction,outcome
+8572,8573,46269889,Complication due to Crohn's disease,outcome
+8572,8573,377888,Conductive hearing loss,outcome
+8572,8573,437366,Contracture of tendon sheath,outcome
+8572,8573,4022071,Convalescence,outcome
+8572,8573,42873170,Dependence on supplemental oxygen,outcome
+8572,8573,40481547,Dependence on ventilator,outcome
+8572,8573,434887,Disorders of bilirubin excretion,outcome
+8572,8573,198846,Enthesopathy of hip region,outcome
+8572,8573,374801,Foreign body in ear,outcome
+8572,8573,438111,Hematologic neoplasm of uncertain behavior,outcome
+8572,8573,79864,Hematuria syndrome,outcome
+8572,8573,197911,Hernia of anterior abdominal wall without obstruction AND without gangrene,outcome
+8572,8573,440021,Herpes simplex without complication,outcome
+8572,8573,440329,Herpes zoster without complication,outcome
+8572,8573,435511,Hypercalcemia,outcome
+8572,8573,4295287,Hypercoagulability state,outcome
+8572,8573,440072,Hypogammaglobulinemia,outcome
+8572,8573,40481385,Imaging of abdomen abnormal,outcome
+8572,8573,40484908,Imaging of brain abnormal,outcome
+8572,8573,374375,Impacted cerumen,outcome
+8572,8573,4344500,Impingement syndrome of shoulder region,outcome
+8572,8573,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+8572,8573,139099,Ingrowing nail,outcome
+8572,8573,4288544,Inguinal hernia,outcome
+8572,8573,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+8572,8573,4168681,Irritability and anger,outcome
+8572,8573,74052,Labyrinthitis,outcome
+8572,8573,133088,Late amputation stump complication,outcome
+8572,8573,434814,Late effect of medical and surgical care complication,outcome
+8572,8573,435516,Lipoprotein deficiency disorder,outcome
+8572,8573,443600,Localized infection of skin AND/OR subcutaneous tissue,outcome
+8572,8573,4166126,"Localized swelling, mass and lump, trunk",outcome
+8572,8573,44783760,Mammographic calcification of breast,outcome
+8572,8573,439082,Menopausal syndrome,outcome
+8572,8573,441536,Mixed acid-base balance disorder,outcome
+8572,8573,137967,"Muscle, ligament and fascia disorders",outcome
+8572,8573,43530648,New daily persistent headache,outcome
+8572,8573,40480893,Nonspecific tuberculin test reaction,outcome
+8572,8573,4194981,"Pain due to any device, implant AND/OR graft",outcome
+8572,8573,4091513,Passing flatus,outcome
+8572,8573,375292,Perforation of tympanic membrane,outcome
+8572,8573,78162,Peripheral vertigo,outcome
+8572,8573,437092,Physiological development failure,outcome
+8572,8573,46286594,Problem related to lifestyle,outcome
+8572,8573,4049367,Psychologic conversion disorder,outcome
+8572,8573,436246,Reduced libido,outcome
+8572,8573,138845,Rheumatism,outcome
+8572,8573,36713918,Somatic dysfunction of lumbar region,outcome
+8572,8573,77079,Spinal stenosis,outcome
+8572,8573,4008710,"Stenosis due to any device, implant AND/OR graft",outcome
+8572,8573,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
+8572,8573,199065,Stricture of ureter,outcome
+8572,8573,374053,Sudden hearing loss,outcome
+8572,8573,376382,Tension-type headache,outcome
+8572,8573,193251,Umbilical hernia without obstruction AND without gangrene,outcome
+8572,8573,4094742,Unstable knee,outcome
+8572,8573,201916,Ureteric stone,outcome
+8572,8573,79873,Urolith,outcome
+8572,8573,133327,Viremia,outcome
+8572,8573,439981,Wound dehiscence,outcome
+8572,8573,435723,Wound seroma,outcome
+8572,8573,440193,Wristdrop,outcome

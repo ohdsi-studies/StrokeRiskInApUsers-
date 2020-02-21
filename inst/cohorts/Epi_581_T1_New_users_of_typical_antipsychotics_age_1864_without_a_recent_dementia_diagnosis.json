@@ -1,0 +1,1834 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 374060,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "288723005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acute ill-defined cerebrovascular disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 376713,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "274100004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4108356,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195190007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to embolism of cerebral arteries",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46273649,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "34181000119102",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to occlusion of basilar artery",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4110192,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195189003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to thrombosis of cerebral arteries",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4043731,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "230692004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Infarction - precerebral",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432923,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "21454007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Subarachnoid hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[Epi 581] Stroke Sentinel",
+      "id": 7
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4038835,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "118599009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hodgkin's disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 434584,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "109385007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Kaposi's sarcoma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 133511,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "58961005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Lethal midline granuloma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 141232,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "93655004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant melanoma of skin",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 138994,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "109995007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Myelodysplastic syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 439392,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "372087000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary malignant neoplasm",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 139750,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "94047004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Primary malignant neoplasm of skin",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432851,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128462008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Secondary malignant neoplastic disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[Epi 581] Cancer",
+      "id": 8
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4168666,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "418143002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral degeneration",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4092747,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "279982005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral degeneration presenting primarily with dementia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 375239,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "52522001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Degenerative brain disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4182210,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "52448006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Dementia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4043378,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "230270009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Frontotemporal dementia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 377788,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "51928006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "General paresis - neurosyphilis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 439795,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "110352000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Minimal cognitive impairment",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 372610,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "40425004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Postconcussion syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 373179,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "45864009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Senile degeneration of brain",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[Epi 581] Dementia",
+      "id": 9
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 794852,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "2403",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Chlorpromazine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 756018,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4496",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Fluphenazine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 792263,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "6475",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Loxapine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 703083,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "6779",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Mesoridazine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 709699,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "7019",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Molindone",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 733008,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "8076",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Perphenazine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 700299,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "10502",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Thioridazine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 700465,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "10510",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Thiothixene",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 704984,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "10800",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Trifluoperazine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[Epi 581] Typical Antipsychotics excl. Haloperidol",
+      "id": 10
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 374060,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "288723005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acute ill-defined cerebrovascular disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 376713,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "274100004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 443454,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "432504007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4108356,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195190007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to embolism of cerebral arteries",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46273649,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "34181000119102",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to occlusion of basilar artery",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4110192,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195189003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to thrombosis of cerebral arteries",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4043731,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "230692004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Infarction - precerebral",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432923,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "21454007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Subarachnoid hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[Epi 581] Stroke Sentinel ICD10 Update",
+      "id": 11
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 794852,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "2403",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Chlorpromazine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 756018,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4496",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Fluphenazine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 766529,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "5093",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Haloperidol",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 792263,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "6475",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Loxapine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 709699,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "7019",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Molindone",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 733008,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "8076",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Perphenazine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 700299,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "10502",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Thioridazine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 700465,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "10510",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Thiothixene",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 704984,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "10800",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Trifluoperazine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[Epi 581] Typical Antipsychotics",
+      "id": 12
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 757688,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "89013",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "aripiprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40164052,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "784649",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Asenapine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46275300,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1658314",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "brexpiprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35603277,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1667655",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "cariprazine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 800878,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "2626",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Clozapine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19017241,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "73178",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "iloperidone",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40230761,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1040028",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "lurasidone",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 785788,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "61381",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "olanzapine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 703244,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "679314",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "paliperidone",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 766814,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "51272",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "quetiapine",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 735979,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "35636",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Risperidone",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 712615,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "115698",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "ziprasidone",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[Epi 581] Atypical Antipsychotics",
+      "id": 13
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720605,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "Q0171",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Chlorpromazine hydrochloride, 10 mg, oral, fda approved prescription anti-emetic, for use as a complete therapeutic substitute for an iv anti-emetic at the time of chemotherapy treatment, not to exceed a 48 hour dosage regimen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720606,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "Q0172",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Chlorpromazine hydrochloride, 25 mg, oral, fda approved prescription anti-emetic, for use as a complete therapeutic substitute for an iv anti-emetic at the time of chemotherapy treatment, not to exceed a 48 hour dosage regimen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44786601,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "Q0161",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Chlorpromazine hydrochloride, 5 mg, oral, fda approved prescription anti-emetic, for use as a complete therapeutic substitute for an iv anti-emetic at the time of chemotherapy treatment, not to exceed a 48 hour dosage regimen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720963,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "S0136",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Clozapine, 25 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44786557,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "J0401",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, aripiprazole, extended release, 1 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2718258,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "J0400",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, aripiprazole, intramuscular, 0.25 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2718605,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "J3230",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, chlorpromazine hcl, up to 50 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2718549,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "J2680",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, fluphenazine decanoate, up to 25 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2718425,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "J1631",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, haloperidol decanoate, per 50 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2718424,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "J1630",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, haloperidol, up to 5 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720985,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "S0166",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, olanzapine, 2.5 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40664583,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "J2358",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, olanzapine, long-acting, 1 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40664472,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "J2426",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, paliperidone palmitate extended release, 1 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40659692,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "C9255",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, paliperidone palmitate, 1 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2718621,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "J3310",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, perphenazine, up to 5 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 953179,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "C9037",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, risperidone (perseris), 0.5 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2718568,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "J2794",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, risperidone, long acting, 0.5 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2718648,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "J3486",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Injection, ziprasidone mesylate, 10 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 953171,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "J2062",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Loxapine for inhalation, 1 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 44786380,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "C9497",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Loxapine, inhalation powder, 10 mg",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "U"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720609,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "Q0175",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Perphenazine, 4 mg, oral, fda approved prescription anti-emetic, for use as a complete therapeutic substitute for an iv anti-emetic at the time of chemotherapy treatment, not to exceed a 48 hour dosage regimen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720610,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "Q0176",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Perphenazine, 8mg, oral, fda approved prescription anti-emetic, for use as a complete therapeutic substitute for an iv anti-emetic at the time of chemotherapy treatment, not to exceed a 48 hour dosage regimen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[Epi 581] Typical and atypical antipsychotics HCPCS codes",
+      "id": 14
+    }
+  ],
+  "EndStrategy": {"CustomEra": {
+    "DrugCodesetId": 12,
+    "GapDays": 30,
+    "Offset": 30
+  }},
+  "CensoringCriteria": [{"DrugExposure": {
+    "OccurrenceEndDate": null,
+    "CorrelatedCriteria": null,
+    "DrugSourceConcept": null,
+    "CodesetId": 13,
+    "DrugTypeExclude": false,
+    "Quantity": null,
+    "DrugType": null,
+    "ProviderSpecialty": null,
+    "EffectiveDrugDose": null,
+    "Gender": null,
+    "DaysSupply": null,
+    "DoseUnit": null,
+    "VisitType": null,
+    "Refills": null,
+    "First": null,
+    "OccurrenceStartDate": null,
+    "RouteConcept": null,
+    "StopReason": null,
+    "LotNumber": null,
+    "Age": null
+  }}],
+  "Title": null,
+  "AdditionalCriteria": {
+    "CriteriaList": [
+      {
+        "RestrictVisit": false,
+        "StartWindow": {
+          "UseEventEnd": false,
+          "Start": {
+            "Days": 183,
+            "Coeff": -1
+          },
+          "End": {
+            "Days": 1,
+            "Coeff": -1
+          },
+          "UseIndexEnd": null
+        },
+        "IgnoreObservationPeriod": false,
+        "EndWindow": null,
+        "Criteria": {"DrugExposure": {
+          "OccurrenceEndDate": null,
+          "CorrelatedCriteria": null,
+          "DrugSourceConcept": null,
+          "CodesetId": 12,
+          "DrugTypeExclude": false,
+          "Quantity": null,
+          "DrugType": null,
+          "ProviderSpecialty": null,
+          "EffectiveDrugDose": null,
+          "Gender": null,
+          "DaysSupply": null,
+          "DoseUnit": null,
+          "VisitType": null,
+          "Refills": null,
+          "First": null,
+          "OccurrenceStartDate": null,
+          "RouteConcept": null,
+          "StopReason": null,
+          "LotNumber": null,
+          "Age": null
+        }},
+        "Occurrence": {
+          "Type": 0,
+          "IsDistinct": false,
+          "Count": 0
+        }
+      },
+      {
+        "RestrictVisit": false,
+        "StartWindow": {
+          "UseEventEnd": false,
+          "Start": {
+            "Days": 183,
+            "Coeff": -1
+          },
+          "End": {
+            "Days": 0,
+            "Coeff": -1
+          },
+          "UseIndexEnd": null
+        },
+        "IgnoreObservationPeriod": false,
+        "EndWindow": null,
+        "Criteria": {"DrugExposure": {
+          "OccurrenceEndDate": null,
+          "CorrelatedCriteria": null,
+          "DrugSourceConcept": null,
+          "CodesetId": 13,
+          "DrugTypeExclude": false,
+          "Quantity": null,
+          "DrugType": null,
+          "ProviderSpecialty": null,
+          "EffectiveDrugDose": null,
+          "Gender": null,
+          "DaysSupply": null,
+          "DoseUnit": null,
+          "VisitType": null,
+          "Refills": null,
+          "First": null,
+          "OccurrenceStartDate": null,
+          "RouteConcept": null,
+          "StopReason": null,
+          "LotNumber": null,
+          "Age": null
+        }},
+        "Occurrence": {
+          "Type": 0,
+          "IsDistinct": false,
+          "Count": 0
+        }
+      },
+      {
+        "RestrictVisit": false,
+        "StartWindow": {
+          "UseEventEnd": false,
+          "Start": {
+            "Days": null,
+            "Coeff": -1
+          },
+          "End": {
+            "Days": null,
+            "Coeff": 1
+          },
+          "UseIndexEnd": null
+        },
+        "IgnoreObservationPeriod": false,
+        "EndWindow": null,
+        "Criteria": {"DrugExposure": {
+          "OccurrenceEndDate": null,
+          "CorrelatedCriteria": null,
+          "DrugSourceConcept": 14,
+          "CodesetId": null,
+          "DrugTypeExclude": false,
+          "Quantity": null,
+          "DrugType": null,
+          "ProviderSpecialty": null,
+          "EffectiveDrugDose": null,
+          "Gender": null,
+          "DaysSupply": null,
+          "DoseUnit": null,
+          "VisitType": null,
+          "Refills": null,
+          "First": null,
+          "OccurrenceStartDate": null,
+          "RouteConcept": null,
+          "StopReason": null,
+          "LotNumber": null,
+          "Age": null
+        }},
+        "Occurrence": {
+          "Type": 0,
+          "IsDistinct": false,
+          "Count": 0
+        }
+      }
+    ],
+    "Type": "ALL",
+    "DemographicCriteriaList": [],
+    "Groups": [],
+    "Count": null
+  },
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 183,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": null
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ConditionOccurrence": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 11,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "StopReason": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "No stroke 183 days prior",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 183,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 1,
+              "Coeff": -1
+            },
+            "UseIndexEnd": null
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ConditionOccurrence": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 8,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "StopReason": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "No cancer 183 days prior",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 183,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 1,
+              "Coeff": -1
+            },
+            "UseIndexEnd": null
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ConditionOccurrence": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 9,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "StopReason": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "No dementia 183 days prior",
+      "description": null
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"DrugExposure": {
+      "OccurrenceEndDate": null,
+      "CorrelatedCriteria": null,
+      "DrugSourceConcept": null,
+      "CodesetId": 12,
+      "DrugTypeExclude": false,
+      "Quantity": null,
+      "DrugType": null,
+      "ProviderSpecialty": null,
+      "EffectiveDrugDose": null,
+      "Gender": null,
+      "DaysSupply": null,
+      "DoseUnit": null,
+      "VisitType": null,
+      "Refills": null,
+      "First": null,
+      "OccurrenceStartDate": null,
+      "RouteConcept": null,
+      "StopReason": null,
+      "LotNumber": null,
+      "Age": {
+        "Op": "bt",
+        "Extent": 64,
+        "Value": 18
+      }
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 183
+    }
+  }
+}
