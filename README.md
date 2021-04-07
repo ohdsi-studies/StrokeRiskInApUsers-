@@ -12,6 +12,6 @@ Stroke Risk among Elderly and non-Elderly Users of Typical vs. Atypical Antipsyc
 - Study end date: **July 31, 2019**
 - Protocol: **[Protocol](https://github.com/ohdsi-studies/StrokeRiskInElderlyApUsers/tree/master/documents)**
 - Publications: **-**
-- Results explorer: **[StrokeRiskInElderlyApUsers](https://data.ohdsi.org/StrokeRiskElderlyApUsers/), [StrokeRiskInElderlyApUsers](https://data.ohdsi.org/StrokeRiskInNonElderlyApUsers/)**
+- Results explorer: **[StrokeRiskInElderlyApUsers](https://data.ohdsi.org/StrokeRiskInElderlyApUsers/), [StrokeRiskInElderlyApUsers](https://data.ohdsi.org/StrokeRiskInNonElderlyApUsers/)**
 
 This study estimated stroke risk associated with new exposure to haloperidol, or any typical vs. atypical antipsychotic, among patients aged ≥65 years and among patients aged 18-64 years regardless of dementia status.
